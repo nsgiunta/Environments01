@@ -1,0 +1,8 @@
+server:
+  port: 4500
+
+myCustomVar:
+  devName: Natalia
+  authCode: xyz458
+
+
